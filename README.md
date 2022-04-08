@@ -6,6 +6,7 @@ DogeRift is a game built on NEO Blockchain
 ### Usage Instructions
 
 Download the game here:
+
 Run the DogeRift.exe file , enter your desired username and login.
 After you click play, enter the big portal to create your world or join small portals to enter other people worlds.
 Chat and voicechat supported.
