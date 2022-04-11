@@ -1,0 +1,12 @@
+/home/s/Documents/GitHub/DogeRift/contracts/DogeRift/src/bin/Debug/net5.0/DogeRiftContract.deps.json
+/home/s/Documents/GitHub/DogeRift/contracts/DogeRift/src/bin/Debug/net5.0/DogeRiftContract.dll
+/home/s/Documents/GitHub/DogeRift/contracts/DogeRift/src/bin/Debug/net5.0/DogeRiftContract.pdb
+/home/s/Documents/GitHub/DogeRift/contracts/DogeRift/src/obj/Debug/net5.0/DogeRiftContract.csproj.AssemblyReference.cache
+/home/s/Documents/GitHub/DogeRift/contracts/DogeRift/src/obj/Debug/net5.0/DogeRiftContract.GeneratedMSBuildEditorConfig.editorconfig
+/home/s/Documents/GitHub/DogeRift/contracts/DogeRift/src/obj/Debug/net5.0/DogeRiftContract.AssemblyInfoInputs.cache
+/home/s/Documents/GitHub/DogeRift/contracts/DogeRift/src/obj/Debug/net5.0/DogeRiftContract.AssemblyInfo.cs
+/home/s/Documents/GitHub/DogeRift/contracts/DogeRift/src/obj/Debug/net5.0/DogeRiftContract.csproj.CoreCompileInputs.cache
+/home/s/Documents/GitHub/DogeRift/contracts/DogeRift/src/obj/Debug/net5.0/DogeRiftContract.dll
+/home/s/Documents/GitHub/DogeRift/contracts/DogeRift/src/obj/Debug/net5.0/refint/DogeRiftContract.dll
+/home/s/Documents/GitHub/DogeRift/contracts/DogeRift/src/obj/Debug/net5.0/DogeRiftContract.pdb
+/home/s/Documents/GitHub/DogeRift/contracts/DogeRift/src/obj/Debug/net5.0/ref/DogeRiftContract.dll
