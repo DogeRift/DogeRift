@@ -9,7 +9,7 @@ namespace DogeRift
 {
     [DisplayName("DogeRift")]
     [ManifestExtra("Author", "DogeRift")]
-    [ManifestExtra("Email", "support@dogerfit.com")]
+    [ManifestExtra("Email", "support@DogeRift.com")]
     [ManifestExtra("Description", "DogeRift.com")]
     [SupportedStandards("NEP-17")]
     [ContractPermission("*", new[] {"*"})]
