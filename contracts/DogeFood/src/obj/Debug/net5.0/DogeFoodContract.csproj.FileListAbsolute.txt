@@ -1,0 +1,12 @@
+D:\NEO\Projects\DogeRift-main\contracts\DogeFood\src\bin\Debug\net5.0\DogeFoodContract.deps.json
+D:\NEO\Projects\DogeRift-main\contracts\DogeFood\src\bin\Debug\net5.0\DogeFoodContract.dll
+D:\NEO\Projects\DogeRift-main\contracts\DogeFood\src\bin\Debug\net5.0\DogeFoodContract.pdb
+D:\NEO\Projects\DogeRift-main\contracts\DogeFood\src\obj\Debug\net5.0\DogeFoodContract.csproj.AssemblyReference.cache
+D:\NEO\Projects\DogeRift-main\contracts\DogeFood\src\obj\Debug\net5.0\DogeFoodContract.GeneratedMSBuildEditorConfig.editorconfig
+D:\NEO\Projects\DogeRift-main\contracts\DogeFood\src\obj\Debug\net5.0\DogeFoodContract.AssemblyInfoInputs.cache
+D:\NEO\Projects\DogeRift-main\contracts\DogeFood\src\obj\Debug\net5.0\DogeFoodContract.AssemblyInfo.cs
+D:\NEO\Projects\DogeRift-main\contracts\DogeFood\src\obj\Debug\net5.0\DogeFoodContract.csproj.CoreCompileInputs.cache
+D:\NEO\Projects\DogeRift-main\contracts\DogeFood\src\obj\Debug\net5.0\DogeFoodContract.dll
+D:\NEO\Projects\DogeRift-main\contracts\DogeFood\src\obj\Debug\net5.0\refint\DogeFoodContract.dll
+D:\NEO\Projects\DogeRift-main\contracts\DogeFood\src\obj\Debug\net5.0\DogeFoodContract.pdb
+D:\NEO\Projects\DogeRift-main\contracts\DogeFood\src\obj\Debug\net5.0\ref\DogeFoodContract.dll
