@@ -13,7 +13,7 @@ namespace DogeRift
     [ManifestExtra("Description", "DogeRift.com")]
     [SupportedStandards("NEP-17")]
     [ContractPermission("*", new[] {"*"})]
-    public class DogeRiftContract : Nep17Token
+    public class DogeRift : Nep17Token
     {
         private static StorageMap ContractMetadata => new StorageMap(Storage.CurrentContext, "Metadata");
         private static Transaction Tx => (Transaction) Runtime.ScriptContainer;

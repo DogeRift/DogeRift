@@ -13,7 +13,7 @@ namespace DogeFood
     [ManifestExtra("Description", "DogeRift.com")]
     [SupportedStandards("NEP-17")]
     [ContractPermission("*", new[] {"*"})]
-    public class DogeFoodContract : Nep17Token
+    public class DogeFood : Nep17Token
     {
         private static StorageMap ContractMetadata => new StorageMap(Storage.CurrentContext, "Metadata");
         private static Transaction Tx => (Transaction) Runtime.ScriptContainer;
@@ -24,7 +24,7 @@ namespace DogeFood
             if (!update)
             {
                 ContractMetadata.Put("Owner", (ByteString) Tx.Sender);
-                Mint(Tx.Sender, BigInteger.Parse("1000000000"));
+                Mint(Tx.Sender, BigInteger.Parse("10000000000000000000000"));
             }
         }
 

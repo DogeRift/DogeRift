@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9hqQJFQzNPMN9uE1sWHjPcTe0aUf+V7rqYbGVoKKpHW/Ue8aGLLUfVCtA+V6l1EhQ5Lw0hFdc36RoYajwzS1LA==",
+  "dgSpecHash": "H5fMIs2k6u0oKIRrtwcNHnNo4TLFpOHr0huHdrK2cv5tKzpknuXO6yhjQwOGd8lAQI2Lz3y1SkLFnHgdsh2LEQ==",
   "success": true,
-  "projectFilePath": "/home/s/Documents/GitHub/DogeRift/contracts/DogeRift/src/DogeRiftContract.csproj",
+  "projectFilePath": "D:\\NEO\\GitHub\\DogeRift\\contracts\\DogeRift\\src\\DogeRift.csproj",
   "expectedPackageFiles": [
-    "/home/s/.nuget/packages/neo.smartcontract.framework/3.0.0/neo.smartcontract.framework.3.0.0.nupkg.sha512"
+    "C:\\Users\\Marko\\.nuget\\packages\\neo.smartcontract.framework\\3.0.0\\neo.smartcontract.framework.3.0.0.nupkg.sha512"
   ],
   "logs": []
 }

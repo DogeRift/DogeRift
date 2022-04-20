@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\NEO\\GitHub\\DogeRift\\contracts\\DogeRift\\src\\DogeRiftContract.csproj": {}
+    "D:\\NEO\\GitHub\\DogeRift\\contracts\\DogeRift\\src\\DogeRift.csproj": {}
   },
   "projects": {
-    "D:\\NEO\\GitHub\\DogeRift\\contracts\\DogeRift\\src\\DogeRiftContract.csproj": {
+    "D:\\NEO\\GitHub\\DogeRift\\contracts\\DogeRift\\src\\DogeRift.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NEO\\GitHub\\DogeRift\\contracts\\DogeRift\\src\\DogeRiftContract.csproj",
-        "projectName": "DogeRiftContract",
-        "projectPath": "D:\\NEO\\GitHub\\DogeRift\\contracts\\DogeRift\\src\\DogeRiftContract.csproj",
+        "projectUniqueName": "D:\\NEO\\GitHub\\DogeRift\\contracts\\DogeRift\\src\\DogeRift.csproj",
+        "projectName": "DogeRift",
+        "projectPath": "D:\\NEO\\GitHub\\DogeRift\\contracts\\DogeRift\\src\\DogeRift.csproj",
         "packagesPath": "C:\\Users\\Marko\\.nuget\\packages\\",
         "outputPath": "D:\\NEO\\GitHub\\DogeRift\\contracts\\DogeRift\\src\\obj\\",
         "projectStyle": "PackageReference",
