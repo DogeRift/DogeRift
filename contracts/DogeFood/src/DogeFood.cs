@@ -43,7 +43,7 @@ namespace DogeFood
         private static void VerifyOwner()
         {
             ByteString owner = ContractMetadata.Get("Owner");
-            if (!Tx.Sender.Equals(owner))
+            if (!Runtime.CheckWitness((Neo.UInt160)owner))
             {
                 throw new Exception("Only the contract owner can do this");
             }

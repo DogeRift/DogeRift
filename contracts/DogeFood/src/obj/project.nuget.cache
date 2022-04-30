@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XqNR0c4e03EMUAku2CDDIZRwhHSLYG1x8ZGOuZWb+ShPFCfbR5DHO0h5XUxqK2qGhaKEosiLb/mPqw8aOwL+zA==",
+  "dgSpecHash": "IBUmnd2IVa5nTFJpc2D7X1xaCSXQMJV1Gbz7bgvy1/3rBcIZpnQKBHXRaSBsUaNlINQA8zw4GcSgq8BXMUipyA==",
   "success": true,
-  "projectFilePath": "D:\\NEO\\Projects\\DogeRift-main\\contracts\\DogeFood\\src\\DogeFood.csproj",
+  "projectFilePath": "D:\\NEO\\GitHub\\DogeRift\\contracts\\DogeFood\\src\\DogeFood.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Marko\\.nuget\\packages\\neo.smartcontract.framework\\3.0.0\\neo.smartcontract.framework.3.0.0.nupkg.sha512"
   ],

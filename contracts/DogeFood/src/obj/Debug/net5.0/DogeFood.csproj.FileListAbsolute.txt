@@ -10,3 +10,15 @@ D:\NEO\Projects\DogeRift-main\contracts\DogeFood\src\obj\Debug\net5.0\DogeFood.d
 D:\NEO\Projects\DogeRift-main\contracts\DogeFood\src\obj\Debug\net5.0\refint\DogeFood.dll
 D:\NEO\Projects\DogeRift-main\contracts\DogeFood\src\obj\Debug\net5.0\DogeFood.pdb
 D:\NEO\Projects\DogeRift-main\contracts\DogeFood\src\obj\Debug\net5.0\ref\DogeFood.dll
+D:\NEO\GitHub\DogeRift\contracts\DogeFood\src\bin\Debug\net5.0\DogeFood.deps.json
+D:\NEO\GitHub\DogeRift\contracts\DogeFood\src\bin\Debug\net5.0\DogeFood.dll
+D:\NEO\GitHub\DogeRift\contracts\DogeFood\src\bin\Debug\net5.0\DogeFood.pdb
+D:\NEO\GitHub\DogeRift\contracts\DogeFood\src\obj\Debug\net5.0\DogeFood.csproj.AssemblyReference.cache
+D:\NEO\GitHub\DogeRift\contracts\DogeFood\src\obj\Debug\net5.0\DogeFood.GeneratedMSBuildEditorConfig.editorconfig
+D:\NEO\GitHub\DogeRift\contracts\DogeFood\src\obj\Debug\net5.0\DogeFood.AssemblyInfoInputs.cache
+D:\NEO\GitHub\DogeRift\contracts\DogeFood\src\obj\Debug\net5.0\DogeFood.AssemblyInfo.cs
+D:\NEO\GitHub\DogeRift\contracts\DogeFood\src\obj\Debug\net5.0\DogeFood.csproj.CoreCompileInputs.cache
+D:\NEO\GitHub\DogeRift\contracts\DogeFood\src\obj\Debug\net5.0\DogeFood.dll
+D:\NEO\GitHub\DogeRift\contracts\DogeFood\src\obj\Debug\net5.0\refint\DogeFood.dll
+D:\NEO\GitHub\DogeRift\contracts\DogeFood\src\obj\Debug\net5.0\DogeFood.pdb
+D:\NEO\GitHub\DogeRift\contracts\DogeFood\src\obj\Debug\net5.0\ref\DogeFood.dll

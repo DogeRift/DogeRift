@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\NEO\\Projects\\DogeRift-main\\contracts\\DogeFood\\src\\DogeFood.csproj": {}
+    "D:\\NEO\\GitHub\\DogeRift\\contracts\\DogeFood\\src\\DogeFood.csproj": {}
   },
   "projects": {
-    "D:\\NEO\\Projects\\DogeRift-main\\contracts\\DogeFood\\src\\DogeFood.csproj": {
+    "D:\\NEO\\GitHub\\DogeRift\\contracts\\DogeFood\\src\\DogeFood.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NEO\\Projects\\DogeRift-main\\contracts\\DogeFood\\src\\DogeFood.csproj",
+        "projectUniqueName": "D:\\NEO\\GitHub\\DogeRift\\contracts\\DogeFood\\src\\DogeFood.csproj",
         "projectName": "DogeFood",
-        "projectPath": "D:\\NEO\\Projects\\DogeRift-main\\contracts\\DogeFood\\src\\DogeFood.csproj",
+        "projectPath": "D:\\NEO\\GitHub\\DogeRift\\contracts\\DogeFood\\src\\DogeFood.csproj",
         "packagesPath": "C:\\Users\\Marko\\.nuget\\packages\\",
-        "outputPath": "D:\\NEO\\Projects\\DogeRift-main\\contracts\\DogeFood\\src\\obj\\",
+        "outputPath": "D:\\NEO\\GitHub\\DogeRift\\contracts\\DogeFood\\src\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Marko\\AppData\\Roaming\\NuGet\\NuGet.Config"
